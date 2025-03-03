@@ -1,11 +1,11 @@
 AugmentSDK: Production-Ready AI Development Toolkit
 Introduction
 
-Why Choose AugmentSDK?
-AugmentSDK offers tailored solutions through a flexible licensing model—whether you're driving community impact
-or scaling enterprise systems. Our tools bridge innovation and connection, empowering you to turn your vision
-into viable outcomes. We match your contribution with tailored implementations, fostering growth
-across Main Street, education, and beyond.
+Why Choose AugmentSDK?  
+AugmentSDK offers tailored solutions through a flexible licensing model—whether you're driving community impact  
+or scaling enterprise systems. Our tools bridge innovation and connection, empowering you to turn your vision  
+into viable outcomes. We match your contribution with tailored implementations, fostering growth  
+across Main Street, education, and beyond. 
 
 
 AugmentSDK offers a modular, production-ready ecosystem for building advanced AI systems.   
