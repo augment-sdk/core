@@ -1,3 +1,11 @@
+MIT License + Apache Hybrid
+
+💼 Free for non-commercial and small-scale projects.
+💰 Commercial license required for enterprises or large-scale distribution.
+⚖️ Patent rights only extended under specific conditions (e.g., non-competing use, no sublicensing).
+
+Contributions to this project are welcomed. By contributing, you agree that your contributions will be licensed under the same license as the project. Licensing, branding, and collaborative opportunities include fair revenue-sharing options and are always open to discussions.
+
 Copyright (c) 2025 Augment Human Agency
 
 Apache License
@@ -15,8 +23,14 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    Subject to the terms and conditions of this License, Licensor hereby grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
 
 3. Commercial Use.
-   Commercial use of this software requires a separate license. For commercial licensing options, please contact:
-   [commercial@augmenthumanagency.com](mailto:commercial@augmenthumanagency.com)
+Examples of Commercial Use include, but are not limited to:
+- Integrating the software into paid products or services.
+- Using the software in enterprise environments with more than X users.
+- Distributing the software as part of a commercial package or SaaS solution.
+   
+Commercial use of this software requires a separate license. 
+
+Augment Human Agency reserves the right to audit commercial use and enforce licensing terms as necessary.
 
 4. Disclaimer of Warranty.
    Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
@@ -24,4 +38,5 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 5. Limitation of Liability.
    In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
-For full licensing details, refer to [LICENSE.txt](LICENSE.txt).
+For commercial licensing options, please contact:
+   [commercial@augmenthumanagency.com](mailto:commercial@augmenthumanagency.com)
